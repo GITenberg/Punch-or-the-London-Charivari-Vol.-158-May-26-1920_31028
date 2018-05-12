@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31028#Punch-or-the-London-Charivari-Vol.-158-May-26-1920
 gutenberg_bookshelf: Punch
 gutenberg_issued: '2010-01-20'
 gutenberg_type: Text
